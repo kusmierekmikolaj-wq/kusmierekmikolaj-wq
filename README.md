@@ -8,6 +8,16 @@ Interests: coding with LLMs, robotics, 3D printing. Based in Poland.*
 
 ---
 
+#### <img src="https://raw.githubusercontent.com/kusmierekmikolaj-wq/reel-intel/main/assets/logo.svg" width="22" height="22" alt=""> [reel-intel](https://github.com/kusmierekmikolaj-wq/reel-intel): dlaczego jedne krótkie filmy wybuchają, a inne nie
+
+Z linków albo całego profilu (Instagram, TikTok, YouTube, X, Facebook) robi dosłowny tekst, pomiary obrazu i dźwięku
+oraz uczciwą statystykę, wszystko lokalnie, bez kluczy API. Aplikacja w przeglądarce, wtyczka do Chrome, serwer MCP i wtyczka do Claude Code.
+Na **262 filmach z 6 kont: żadna z 14 mierzonych cech nie powtarza się na dwóch kontach**, więc uniwersalnej recepty na viral nie ma.
+Kontrola jakości ma autotest na 15 wstrzykniętych usterkach. Czego jeszcze nie zmierzyłem, mówię wprost: błąd transkrypcji na prawdziwych mówcach. Python, MIT.
+
+*Turns links or a profile into verbatim text, picture and sound measurements and honest statistics, all on your computer.
+On 262 videos from 6 accounts no format feature repeated across accounts. Real-speaker word error rate: not yet measured.*
+
 #### 🔥 [Iskra](https://github.com/kusmierekmikolaj-wq/iskra): kod z AI taniej, szybciej i bezpieczniej
 
 Język i zestaw narzędzi do pisania kodu z modelami AI. `isk solve` zastępuje pętlę agenta jednym wywołaniem modelu,
@@ -29,4 +39,4 @@ voice next, then a 3D-printed skull.*
 
 ---
 
-**Narzędzia / Tools:** JavaScript (Node.js) · Python · Claude API i Claude Code · MCP · MuJoCo · Blender · FreeCAD · Git
+**Narzędzia / Tools:** JavaScript (Node.js) · Python · Claude API i Claude Code · MCP · faster-whisper · OpenCV · MuJoCo · Blender · FreeCAD · Git
