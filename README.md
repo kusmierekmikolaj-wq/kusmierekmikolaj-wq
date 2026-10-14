@@ -13,10 +13,10 @@ Interests: coding with LLMs, robotics, 3D printing. Based in Poland.*
 Z linków albo całego profilu (Instagram, TikTok, YouTube, X, Facebook) robi dosłowny tekst, pomiary obrazu i dźwięku
 oraz uczciwą statystykę, wszystko lokalnie, bez kluczy API. Aplikacja w przeglądarce, wtyczka do Chrome, serwer MCP i wtyczka do Claude Code.
 Na **262 filmach z 6 kont: żadna z 14 mierzonych cech nie powtarza się na dwóch kontach**, więc uniwersalnej recepty na viral nie ma.
-Kontrola jakości ma autotest na 15 wstrzykniętych usterkach. Czego jeszcze nie zmierzyłem, mówię wprost: błąd transkrypcji na prawdziwych mówcach. Python, MIT.
+Kontrola jakości ma autotest na 15 wstrzykniętych usterkach. Transkrypcja na prawdziwych wystąpieniach (angielskich i polskich): ok. 4% słów z ludzkich napisów nie zostaje odtworzone, 8% rozbieżności z napisami (górna granica); krótkich zaszumionych rolek jeszcze nie mierzyłem. Python, MIT.
 
 *Turns links or a profile into verbatim text, picture and sound measurements and honest statistics, all on your computer.
-On 262 videos from 6 accounts no format feature repeated across accounts. Real-speaker word error rate: not yet measured.*
+On 262 videos from 6 accounts no format feature repeated across accounts. On four real talks (English and Polish) about 4% of the human subtitle words are missed, 8% disagreement as an upper bound; short noisy reels not yet measured.*
 
 #### 🔥 [Iskra](https://github.com/kusmierekmikolaj-wq/iskra): kod z AI taniej, szybciej i bezpieczniej
 
