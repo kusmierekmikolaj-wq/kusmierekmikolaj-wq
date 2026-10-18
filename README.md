@@ -28,14 +28,19 @@ Checker bezpieczeństwa, testy oparte na właściwościach, serwer MCP. Node.js,
 *A language and toolchain for AI-assisted coding. In a pre-registered benchmark `isk solve` solved 18/18 tasks
 at ~14% of the default agent's cost, about 2× faster.*
 
-#### 🤖 [Robot T-800](https://github.com/kusmierekmikolaj-wq/robot-t800): głowa robota z Claude jako mózgiem
+#### AMSA — uwaga, pamięć i samomodelowanie u sztucznych agentów
 
-Mózg na Claude z nadzorcą bezpieczeństwa: każde polecenie ruchu przechodzi przez limity, a e-stop odblokowuje tylko
-człowiek. Symulacja w MuJoCo, rendery w Blenderze, następny krok: kamera, mikrofon i głośnik na ESP32-S3,
-potem czaszka z drukarki 3D. Python.
+Rozwijam **AMSA (Attention, Memory and Self-modeling in Agents)**: projekt badawczy oparty na publikacjach,
+kodzie i powtarzalnych eksperymentach. Sprawdzam, kiedy modelowanie własnej uwagi pomaga agentowi
+działać i co wnoszą pamięć oraz samomonitorowanie. Pierwszy etap to kontrolowana symulacja w Pythonie,
+PyTorch i Gymnasium, z protokołami, testami i zapisem wyników. Sprawność agenta i subiektywne doświadczenie
+to osobne pytania. Repozytorium pozostaje prywatne podczas porządkowania materiałów.
 
-*A robot head with Claude as its brain, behind a safety supervisor. MuJoCo simulation now, ESP32-S3 camera and
-voice next, then a 3D-printed skull.*
+*AMSA — Attention, Memory and Self-modeling in Agents. A research project using scientific papers,
+code and reproducible experiments to study attention control, memory and self-modeling in artificial agents.
+The first stage uses controlled simulations in Python, PyTorch and Gymnasium. Functional performance
+and subjective experience are separate research questions. The repository is private while the materials are being prepared.*
+
 
 ---
 
