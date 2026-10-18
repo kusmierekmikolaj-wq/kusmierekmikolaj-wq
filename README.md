@@ -18,7 +18,7 @@ Kontrola jakości ma autotest na 15 wstrzykniętych usterkach. Transkrypcja na p
 *Turns links or a profile into verbatim text, picture and sound measurements and honest statistics, all on your computer.
 On 262 videos from 6 accounts no format feature repeated across accounts. On four real talks (English and Polish) about 4% of the human subtitle words are missed, 8% disagreement as an upper bound; short noisy reels not yet measured.*
 
-#### 🔥 [Iskra](https://github.com/kusmierekmikolaj-wq/iskra): kod z AI taniej, szybciej i bezpieczniej
+#### <img src="https://raw.githubusercontent.com/kusmierekmikolaj-wq/kusmierekmikolaj-wq/main/assets/iskra-bolt.svg" width="22" height="22" alt="Iskra"> [Iskra](https://github.com/kusmierekmikolaj-wq/iskra): kod z AI taniej, szybciej i bezpieczniej
 
 Język i zestaw narzędzi do pisania kodu z modelami AI. `isk solve` zastępuje pętlę agenta jednym wywołaniem modelu,
 a program sam wybiera kontekst, nakłada zmiany i uruchamia testy.
@@ -28,7 +28,7 @@ Checker bezpieczeństwa, testy oparte na właściwościach, serwer MCP. Node.js,
 *A language and toolchain for AI-assisted coding. In a pre-registered benchmark `isk solve` solved 18/18 tasks
 at ~14% of the default agent's cost, about 2× faster.*
 
-#### AMSA — uwaga, pamięć i samomodelowanie u sztucznych agentów
+#### <img src="https://raw.githubusercontent.com/kusmierekmikolaj-wq/kusmierekmikolaj-wq/main/assets/amsa-mark.svg" width="22" height="22" alt="AMSA"> AMSA — uwaga, pamięć i samomodelowanie u sztucznych agentów
 
 Rozwijam **AMSA (Attention, Memory and Self-modeling in Agents)**: projekt badawczy oparty na publikacjach,
 kodzie i powtarzalnych eksperymentach. Sprawdzam, kiedy modelowanie własnej uwagi pomaga agentowi

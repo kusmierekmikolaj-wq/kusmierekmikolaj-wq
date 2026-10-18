@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="128" height="128" viewBox="0 0 128 128" role="img" aria-labelledby="title desc">
+<title id="title">AMSA</title><desc id="desc">An open feedback ring around a focus point.</desc>
+<rect width="128" height="128" rx="29" fill="#123C47"/>
+<circle cx="64" cy="64" r="34" fill="none" stroke="#F8FAFC" stroke-width="8" stroke-linecap="round" stroke-dasharray="177 37" transform="rotate(-14 64 64)"/>
+<path d="M64 31V46M35.4 80.5L48.4 73M92.6 80.5L79.6 73" fill="none" stroke="#70E0D0" stroke-width="4" stroke-linecap="round"/>
+<circle cx="64" cy="64" r="10" fill="#70E0D0"/>
+<circle cx="89" cy="41" r="7" fill="#F8FAFC"/>
+</svg>
